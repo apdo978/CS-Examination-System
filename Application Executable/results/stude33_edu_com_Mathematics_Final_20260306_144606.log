@@ -1,0 +1,30 @@
+Exam Result Log
+==============================================
+Student : student3 (ID: 5)
+Email   : stude33@edu.com
+Subject : Mathematics
+Type    : Final
+Date    : 2026-03-06 14:46:06
+==============================================
+
+Q: Arithmetic - What is 2 + 3?
+   Marks         : 2
+   Your Answer   : 5
+   Correct Answer: 5
+   Result        : CORRECT
+
+Q: Multiplication - What is 7 x 8?
+   Marks         : 3
+   Your Answer   : 48
+   Correct Answer: 56
+   Result        : WRONG
+
+Q: Division - What is 12 / 4?
+   Marks         : 2
+   Your Answer   : 4
+   Correct Answer: 3
+   Result        : WRONG
+
+==============================================
+Final Score : 2 / 7
+Percentage  : 28.6%

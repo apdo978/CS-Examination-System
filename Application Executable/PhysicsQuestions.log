@@ -1,0 +1,30 @@
+Header: Optics
+What is the approximate speed of light in vacuum? Marks:2
+Choices: 
+id:30, 3 x 10^8 m/s
+id:31, 3 x 10^6 m/s
+id:32, 3 x 10^10 m/s
+id:33, 3 x 10^4 m/s
+
+Header: Forces
+Which are fundamental forces of nature? (select all) Marks:3
+Choices: 
+id:34, Gravity
+id:35, Friction
+id:36, Electromagnetic
+id:37, Strong Nuclear
+
+Header: Gravity
+What is the acceleration due to gravity on Earth? Marks:2
+Choices: 
+id:38, 9.8 m/s^2
+id:39, 10.2 m/s^2
+id:40, 8.9 m/s^2
+id:41, 11.0 m/s^2
+
+Header: Thermodynamics
+Energy can neither be created nor destroyed. Marks:1
+Choices: 
+id:43, True
+id:44, False
+

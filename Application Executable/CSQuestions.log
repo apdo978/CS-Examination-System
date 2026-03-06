@@ -1,0 +1,30 @@
+Header: Keywords
+Which keyword declares a compile-time constant in C#? Marks:2
+Choices: 
+id:15, const
+id:16, static
+id:17, readonly
+id:18, var
+
+Header: Types
+Which are value types in C#? (select all) Marks:3
+Choices: 
+id:19, int
+id:20, string
+id:21, bool
+id:22, double
+
+Header: Concepts
+What does OOP stand for? Marks:2
+Choices: 
+id:23, Object Oriented Programming
+id:24, Open Object Protocol
+id:25, Ordered Object Paradigm
+id:26, Original Operation Process
+
+Header: Inheritance
+C# supports multiple class inheritance. Marks:1
+Choices: 
+id:28, True
+id:29, False
+
