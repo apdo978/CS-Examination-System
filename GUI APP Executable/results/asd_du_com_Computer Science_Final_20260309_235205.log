@@ -1,0 +1,30 @@
+Exam Result Log
+==============================================
+Student : abdelrhman (ID: 1)
+Email   : asd@du.com
+Subject : Computer Science
+Type    : Final
+Date    : 2026-03-09 23:52:05
+==============================================
+
+Q: Keywords - Which keyword declares a compile-time constant in C#?
+   Marks         : 2
+   Your Answer   : readonly
+   Correct Answer: const
+   Result        : WRONG
+
+Q: Inheritance - C# supports multiple class inheritance.
+   Marks         : 1
+   Your Answer   : True
+   Correct Answer: False
+   Result        : WRONG
+
+Q: Concepts - What does OOP stand for?
+   Marks         : 2
+   Your Answer   : Object Oriented Programming
+   Correct Answer: Object Oriented Programming
+   Result        : CORRECT
+
+==============================================
+Final Score : 2 / 5
+Percentage  : 40.0%

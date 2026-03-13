@@ -1,0 +1,30 @@
+Exam Result Log
+==============================================
+Student : student (ID: 1)
+Email   : student@edu.com
+Subject : Mathematics
+Type    : Practice
+Date    : 2026-03-10 00:01:32
+==============================================
+
+Q: Arithmetic - What is 2 + 3?
+   Marks         : 2
+   Your Answer   : 5
+   Correct Answer: 5
+   Result        : CORRECT
+
+Q: Division - What is 12 / 4?
+   Marks         : 2
+   Your Answer   : 3
+   Correct Answer: 3
+   Result        : CORRECT
+
+Q: Constants - Pi is approximately 3.14159.
+   Marks         : 1
+   Your Answer   : False
+   Correct Answer: True
+   Result        : WRONG
+
+==============================================
+Final Score : 4 / 5
+Percentage  : 80.0%
